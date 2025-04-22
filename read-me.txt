@@ -1,0 +1,14 @@
+This Adblocker is an advanced, customizable ad blocker designed to give users full control over their browsing experience. Unlike traditional ad blockers, this project focuses on detecting and blocking complex advertising scripts—including those embedded in adult content sites—while maintaining performance and privacy.
+
+Key Features:
+🔍 Smart Script Detection: Uses heuristic analysis and pattern recognition to identify ad-related JavaScript, even when obfuscated or dynamically loaded.
+
+🛡️ Privacy First: Prevents tracking and fingerprinting attempts commonly found in ad networks.
+
+⚙️ Custom Filters: Allows users to define their own blocking rules and whitelists.
+
+📈 Lightweight & Fast: Designed to have minimal impact on page load time and system resources.
+
+🌐 Wide Compatibility: Works across modern browsers and platforms with easy integration.
+
+Whether you're looking to block intrusive pop-ups, redirect trackers, or just streamline your web experience, script-adult offers a powerful and flexible toolkit to take back control.
